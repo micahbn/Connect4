@@ -8,6 +8,7 @@ public class Board {
 		GUI.setSize(1400, 1200);
 		GUI.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		GUI.setBackground(Color.blue);
+		/*
 		JPanel panel1 = new JPanel();
 		JPanel panel2 = new JPanel();
 		JPanel panel3 = new JPanel();
@@ -32,6 +33,7 @@ public class Board {
 		JPanel panel22 = new JPanel();
 		JPanel panel23 = new JPanel();
 		JPanel panel24 = new JPanel();
+		*/
 		Container pane = GUI.getContentPane();
 		pane.setLayout(new GridLayout(6, 4));
 		
